@@ -1,0 +1,308 @@
+1. Nat Rev Dis Primers. 2018 Feb 1;4:17108. doi: 10.1038/nrdp.2017.108.
+
+Melioidosis.
+
+[No authors listed]
+
+DOI: 10.1038/nrdp.2017.108
+PMID: 29388564 [Indexed for MEDLINE]
+
+
+2. Aust J Gen Pract. 2019 May;48(5):327-332. doi: 10.31128/AJGP-04-18-4558.
+
+Melioidosis: An updated review.
+
+Chakravorty A(1), Heath CH(2).
+
+Author information:
+(1)MBBS, FRACP, Department of Microbiology and Infectious Diseases, Royal Perth 
+Hospital, Perth, WA. arindam.chakravorty@health.wa.gov.au
+(2)MBBS, FRACP, FRCPA, FECMM, MASM, Department of Microbiology and Infectious 
+Diseases, Royal Perth Hospital, Perth, WA; Department of Microbiology (PathWest 
+Laboratory Medicine), Fiona Stanley Hospital Network, Murdoch, WA; Infectious 
+Diseases Department, Fiona Stanley Hospital, Murdoch, WA; Medical School, 
+Faculty of Health and Medical Sciences, University of Western Australia, 
+Crawley, WA
+
+BACKGROUND: Endemic to soils of Northern Australia, Burkholderia pseudomallei is 
+the Gram-negative pathogen responsible for melioidosis, which causes a clinical 
+spectrum ranging from pneumonia and/or cutaneous infection to disseminated 
+disease with fulminant septicaemia. Incident cases peak after monsoonal rains, 
+particularly in individuals with immune dysfunction. Early diagnosis of 
+melioidosis is challenging for clinicians, given its ability to mimic many other 
+diseases and high clinical (associated mortality) impact.
+OBJECTIVES: The aim of this paper is to provide general practitioners with an 
+overview of melioidosis, covering epidemiology, risk factors for infection, 
+clinical disease spectrum, diagnostic techniques and an approach to management, 
+including public health aspects.
+DISCUSSION: Primary care physicians play a key role in early disease 
+recognition, initial patient stabilisation, request of appropriate clinical 
+samples (particularly blood cultures) and prompt commencement of efficacious 
+antibiotics. Patient education is paramount during high-risk periods, chiefly 
+for patients with diabetes and/or those who engage in hazardous alcohol use, 
+living in endemic areas of Australia.
+
+DOI: 10.31128/AJGP-04-18-4558
+PMID: 31129946 [Indexed for MEDLINE]
+
+
+3. N Engl J Med. 2012 Sep 13;367(11):1035-44. doi: 10.1056/NEJMra1204699.
+
+Melioidosis.
+
+Wiersinga WJ(1), Currie BJ, Peacock SJ.
+
+Author information:
+(1)Department of Medicine, Division of Infectious Diseases, Academic Medical 
+Center, Amsterdam, The Netherlands. w.j.wiersinga@amc.uva.nl
+
+DOI: 10.1056/NEJMra1204699
+PMID: 22970946 [Indexed for MEDLINE]
+
+
+4. Indian J Med Res. 2019 Apr;149(4):561-562. doi: 10.4103/ijmr.IJMR_2018_17.
+
+Melioidosis.
+
+Annamalai AK(1), Padmini K(2).
+
+Author information:
+(1)Department of Endocrinology, Ashwin Speciality Hospital; Department of 
+Endocrinology, Vadamalayan Multispeciality Hospital, Madurai 625 020, Tamil 
+Nadu, India.
+(2)Department of Microbiology, Vadamalayan Multispeciality Hospital, Madurai 625 
+020, Tamil Nadu, India.
+
+DOI: 10.4103/ijmr.IJMR_2018_17
+PMCID: PMC6676822
+PMID: 31411183 [Indexed for MEDLINE]
+
+Conflict of interest statement: None
+
+
+5. Semin Respir Crit Care Med. 2020 Aug;41(4):496-508. doi: 10.1055/s-0040-1710570. 
+Epub 2020 Jul 6.
+
+Melioidosis: A Neglected Cause of Community-Acquired Pneumonia.
+
+Virk HS(1), Mukhopadhyay C(2), Wiersinga WJ(1)(3).
+
+Author information:
+(1)Center for Experimental and Molecular Medicine, Amsterdam Infection & 
+Immunity Institute, Amsterdam University Medical Centers, Location Academic 
+Medical Center, University of Amsterdam, Amsterdam, The Netherlands.
+(2)Center for Emerging and Tropical Diseases, Department of Microbiology, 
+Kasturba Medical College, Manipal Academy of Higher Education, Manipal, 
+Karnataka, India.
+(3)Division of Infectious Diseases, Department of Medicine, Amsterdam Infection 
+& Immunity Institute, Amsterdam University Medical Centers, Amsterdam, The 
+Netherlands.
+
+Melioidosis, caused by the facultative intracellular gram-negative pathogen 
+Burkholderia pseudomallei, is an emerging cause of community-acquired pneumonia 
+across the tropics. The majority of patients present with pneumonia with or 
+without sepsis, but localized and asymptomatic infection is also well 
+recognized. Recent modeling and epidemiological studies have demonstrated the 
+widespread presence of B. pseudomallei in otherwise unrecognized regions with a 
+predicted mortality of 90,000 deaths worldwide. Innovative environmental studies 
+are also uncovering how hydrodynamic, pedology, fauna, and weather events 
+influence geographic distribution and incidence of melioidosis cases. Of concern 
+is the changes associated with global warming, which will be conducive to B. 
+pseudomallei in combination with the global diabetes pandemic. In fact, over 80% 
+of patient developing melioidosis have underlying comorbidities. For this great 
+mimicker, culture remains the mainstay of diagnosis and despite availability of 
+other assays, challenges still remain in reducing time to diagnosis and avoiding 
+misdiagnosis. With institution of timely antimicrobials such as ceftazidime and 
+supportive intensive care, overall mortality can be reduced to 10%, although 
+this can still be as high as 50% in poorly resourced areas. Promise is on the 
+horizon with the first human vaccine trials being planned for 2021. Meanwhile 
+new multiomics techniques are giving us a better understanding of the role of 
+virulence and host-pathogen interactions on patient outcomes.
+
+Thieme Medical Publishers 333 Seventh Avenue, New York, NY 10001, USA.
+
+DOI: 10.1055/s-0040-1710570
+PMID: 32629488 [Indexed for MEDLINE]
+
+Conflict of interest statement: None declared.
+
+
+6. Semin Musculoskelet Radiol. 2011 Nov;15(5):480-8. doi: 10.1055/s-0031-1293494. 
+Epub 2011 Nov 11.
+
+Musculoskeletal melioidosis.
+
+Pattamapaspong N(1), Muttarak M.
+
+Author information:
+(1)Department of Radiology, Faculty of Medicine, Chiang Mai University, Chiang 
+Mai, Thailand. nuttaya@gmail.com
+
+Melioidosis is an infectious disease caused by Burkholderia pseudomallei, mostly 
+affecting patients in Southeast Asia and northern Australia. The disease has 
+been increasingly recognized around the world due to the increased levels of 
+travel and population movement. Clinical manifestations of melioidosis range 
+from fulminant septicemic illness to an indolent local infection. The disease 
+often involves multiple organs, including the lung, spleen, liver, and other 
+visceral organs. Musculoskeletal infection is usually seen as a part of 
+multiorgan involvement, but localized musculoskeletal involvement may occur. The 
+most common manifestation of musculoskeletal melioidosis is septic arthritis, 
+followed by osteomyelitis, pyomyositis, and soft tissue abscesses. The clinical 
+and radiological manifestations of musculoskeletal melioidosis are nonspecific, 
+and the diagnosis needs a high level of suspicion. Associated infection of lungs 
+and visceral organs is suggestive of melioidosis. The disease requires special 
+laboratory facilities and treatment. Inappropriate or inadequate treatment leads 
+to high mortality rate or long-term relapse of the disease. The causative 
+organism of melioidosis, clinical manifestations, and imaging features of 
+musculoskeletal melioidosis are reviewed.
+
+© Thieme Medical Publishers.
+
+DOI: 10.1055/s-0031-1293494
+PMID: 22081283 [Indexed for MEDLINE]
+
+
+7. Eur J Clin Microbiol Infect Dis. 2019 Aug;38(8):1395-1408. doi: 
+10.1007/s10096-019-03548-5. Epub 2019 Apr 4.
+
+A review of melioidosis cases imported into Europe.
+
+Le Tohic S(1), Montana M(2)(3), Koch L(4), Curti C(2)(5), Vanelle P(2)(5).
+
+Author information:
+(1)Hôpital d'Instruction des Armées Laveran, Marseille, France. 
+sarah.le-tohic@intradef.gouv.fr.
+(2)Laboratoire de Pharmaco-Chimie Radicalaire, Aix Marseille Univ, CNRS, ICR, 
+Marseille, France, Marseille, France.
+(3)Assistance Publique-Hôpitaux de Marseille (AP-HM), Oncopharma, Hôpital Nord, 
+Marseille, France.
+(4)Institut de Recherche Biomédicale des Armées (IRBA), Brétigny-sur-Orge, 
+France.
+(5)Service central de la qualité et de l'information pharmaceutiques (SCQIP), 
+Assistance Publique-Hôpitaux de Marseille (AP-HM), Marseille, France.
+
+Melioidosis is a tropical bacterial infection, rarely encountered, and poorly 
+known by clinicians. In non-endemic areas, a misdiagnosis can lead to a fatal 
+outcome. This study aims to identify the main characteristics of imported and 
+diagnosed melioidosis cases in Europe to increase clinician's awareness of this 
+diagnosis. A literature review of imported and diagnosed human melioidosis cases 
+in Europe was performed. PubMed and Web of Science search engines were used for 
+retrieving articles from 2000 to November 2018. Seventy-seven cases of imported 
+melioidosis into Europe described in the literature were identified. More than 
+half of the cases were acquired in Thailand (53%) by men (73%). Patients were 
+usually exposed to Burkholderia pseudomallei during a holiday stay (58%) of less 
+than 1 month (23%) and were hospitalized during the month following their return 
+to Europe (58%). Among travelers, melioidosis is less often associated with risk 
+factor (16%), diabetes being the most frequently comorbidity related (19%). The 
+clinical presentation was multifaceted, pneumonia being the most common symptom 
+(52%), followed by cardiovascular form (45%) and skin and soft tissues damages 
+(35%). The diagnosis was obtained by culture (92%), often supplemented by 
+morphological, biochemical, and molecular identification (23%). Misdiagnoses 
+were common (21%). Over half of the patients received a complete and adapted 
+treatment (56%). Mortality is lower for returning traveler (6%). Imported 
+melioidosis cases into Europe have their own characteristics. This possibility 
+should be considered in patients with pneumonia, fever, and/or abscess returning 
+from endemic areas even years after.
+
+DOI: 10.1007/s10096-019-03548-5
+PMID: 30949898 [Indexed for MEDLINE]
+
+
+8. Lancet. 2003 May 17;361(9370):1715-22. doi: 10.1016/s0140-6736(03)13374-0.
+
+Melioidosis.
+
+White NJ(1).
+
+Author information:
+(1)Faculty of Tropical Medicine, Mahidol University, 10400, Bangkok, Thailand. 
+fnnjw@diamond.mahidol.ac.th <fnnjw@diamond.mahidol.ac.th>
+
+Melioidosis, which is infection with the gram-negative bacterium Burkholderia 
+pseudomallei, is an important cause of sepsis in east Asia and northern 
+Australia. In northeastern Thailand, melioidosis accounts for 20% of all 
+community-acquired septicaemias, and causes death in 40% of treated patients. B 
+pseudomallei is an environmental saprophyte found in wet soils. It mostly 
+infects adults with an underlying predisposing condition, mainly diabetes 
+mellitus. Melioidosis is characterised by formation of abscesses, especially in 
+the lungs, liver, spleen, skeletal muscle, and prostate. In a third of 
+paediatric cases in southeast Asia, the disease presents as parotid abscess. In 
+northern Australia, 4% of patients present with brain stem encephalitis. 
+Ceftazidime is the treatment of choice for severe melioidosis, but response to 
+high dose parenteral treatment is slow (median time to abatement of fever 9 
+days). Maintenance antibiotic treatment is with a four-drug regimen of 
+chloramphenicol, doxycycline, and trimethoprim-sulfamethoxazole, or with 
+amoxicillin-clavulanate in children and pregnant women. However, even with 20 
+weeks' antibiotic treatment, 10% of patients relapse. With improvements in 
+health care and diagnostic microbiology in endemic areas of Asia, and increased 
+travel, melioidosis will probably be recognised increasingly during the next 
+decade.
+
+DOI: 10.1016/s0140-6736(03)13374-0
+PMID: 12767750 [Indexed for MEDLINE]
+
+
+9. Curr Opin Infect Dis. 2006 Oct;19(5):421-8. doi: 
+10.1097/01.qco.0000244046.31135.b3.
+
+Melioidosis.
+
+Peacock SJ(1).
+
+Author information:
+(1)Wellcome Unit, Faculty of Tropical Medicine, Mahidol University, Bangkok, 
+Thailand. sharon@tropmedres.ac
+
+PURPOSE OF REVIEW: Melioidosis is increasingly recognized around the world. 
+Despite several decades of clinical research, the mortality rate for melioidosis 
+remains high. This review focuses on studies that relate to patient management, 
+including risk factors, diagnosis, treatment and prediction of the outcome. A 
+brief summary of studies relating to genomics and genotyping, immunology and 
+pathogenesis is provided.
+RECENT FINDINGS: Involvement in the tsunami of December 2004 is a risk factor 
+for melioidosis, and risk may extend to individuals who were uninjured 
+bystanders. Several standard microbiological techniques used to culture and 
+identify Burkholderia pseudomallei have been evaluated. Polymerase chain 
+reaction has been developed for bacterial identification, although limited 
+evaluation has been performed in the clinical setting. Two trials of 
+antimicrobial therapy provide evidence with which to refine existing treatment 
+protocols. Inexpensive clinical and laboratory predictors for poor outcome have 
+been described. Several putative vaccine candidates have been proposed and 
+studied in animals, but no vaccine is on the immediate horizon.
+SUMMARY: None of the studies reviewed here report strategies that reduce 
+mortality. A key area for future research is the identification of affordable 
+interventions that lower the death rate, and are applicable to low-resource 
+settings.
+
+DOI: 10.1097/01.qco.0000244046.31135.b3
+PMID: 16940864 [Indexed for MEDLINE]
+
+
+10. Med Mal Infect. 2005 Oct;35(10):469-75. doi: 10.1016/j.medmal.2005.08.001. Epub 
+2005 Oct 25.
+
+[Melioidosis].
+
+[Article in French]
+
+Keluangkhot V(1), Pethsouvanh R, Strobel M.
+
+Author information:
+(1)Institut de la francophonie pour la médecine tropicale, BP 9519, Vientiane, 
+Laos.
+
+Melioidosis is an emerging zoonosis, due to Burkholderia pseudomallei, which is 
+a highly invasive, resistant, and resilient soil bacteria, transmitted by 
+cutaneous or airborne route, and is a potential weapon for bioterrorism. 
+Although the agent has been identified all over the world, the human disease is 
+endemic only in SE Asia and Northern Australia, and gained recent interest after 
+the December 2004 tsunami. Human infection can be a very severe systemic disease 
+(mortality 20 to 80%), with protean expression, but the lung is the most 
+affected organ (50%). Pathophysiology remains unclear. Diabetes mellitus is a 
+major risk factor, and is present in half the Asian patients with melioidosis. 
+Recommended antibiotic regimens are expensive, and in severe disease should be 
+prolonged to 20 weeks to reduce the risk of relapse. Prospects for prevention 
+are limited, and no vaccine is available yet.
+
+DOI: 10.1016/j.medmal.2005.08.001
+PMID: 16253457 [Indexed for MEDLINE]
